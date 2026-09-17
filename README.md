@@ -162,6 +162,6 @@ european-pharmacy-sales-analytics/
 
 <div align="center">
 
-**Author:** Apurv Bhawsar
+**Author:** Lakshya Shakywal
 
 </div>
